@@ -1,0 +1,11 @@
+body   { color: #669; font-size: 11px; font-family: Verdana, Arial; background-color: #ccf }
+p {}
+td   { font-size: 12px }
+a { color: #00f; text-decoration: none }
+a:hover   { color: #fff; font-weight: bold; text-decoration: underline }
+.type_sm { font-size: 10px }
+.type_b { }
+.type_lg { font-size: 14px }
+.sub_hdr   { color: #339; font-weight: bold }
+.hdr { font-weight: bold; font-size: 14px }
+.here  { color: #339; font-weight: bold }
